@@ -3,4 +3,4 @@ Email Classifier: A machine learning project using Python that categorizes email
 
 This project used the "Email Dataset for Spam Detection" sourced from Kaggle. The dataset contains a collection of emails labeled as spam and ham for training and testing the classifier.
 
-Link: https://www.kaggle.com/datasets/bhaskarreddy072/mail-datacsv)https://www.kaggle.com/datasets/bhaskarreddy072/mail-datacsv
+Link: https://www.kaggle.com/datasets/bhaskarreddy072/mail-datacsv
